@@ -1,20 +1,2 @@
----
-title: SceneScope
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
-pinned: false
-short_description: Tensorflow-powered neural network image classification demo.
-license: mit
----
-
-# Welcome to Streamlit!
-
-Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+## Deployment
+[![Hugging Face Spaces](https://img.shields.io/badge/Click%20Here-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/frsszn/SceneScope/tree/main)
